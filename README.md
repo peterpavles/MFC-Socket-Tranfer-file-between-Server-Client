@@ -20,3 +20,7 @@ Register -> Login.
 Choose file which you want to download -> Click download.
 
 Message -> Refresh: request Client's log from server
+
+# Video demo:
+
+https://drive.google.com/open?id=1sytu5T7cjmDNsT7bIsAUdU_ZF_2N-loR
