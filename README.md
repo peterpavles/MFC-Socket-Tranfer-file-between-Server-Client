@@ -2,6 +2,7 @@
 MFC SOCKET + CSocket + MultiThread + C++ + Tranfer file + Server-Client
 
 Server:
+fast download
 
 Edit file -> Add file to add some file into allowed-download list.
 
